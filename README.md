@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Lima Murrieta
 
-<!--
-**DavidL0403/DavidL0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Back-End & Data Analyst
 
-Here are some ideas to get you started:
+Soy un **desarrollador back-end** con experiencia en PHP, Laravel, SQL Server, y JavaScript. También trabajo con análisis de datos en Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** PHP, JavaScript, Python
+- **Frameworks:** Laravel, Django, Pandas, Angular
+- **Bases de Datos:** SQL Server, MySQL, NoSQL
+- **DevOps:** Docker, CI/CD, AWS Amplify
+- **Otros:** APIs REST, Web Scraping, Procesos Automáticos
+
+---
+
+## 📌 Proyectos Destacados
+🔹 [**ShieldShirts**](https://github.com/DavidL0403/ShieldShirts) - Proyecto de diseño de camisetas en HTML.  
+🔹 [**Hackathon Banco Guayaquil**](https://github.com/andersonSinaluisa/hackathonbg2025) - Evaluación crediticia con Django y Angular.  
+
+---
+
+## 📫 Contacto
+📧 Email: dlimam9745@gmail.com  
+🌐 LinkedIn: [David Lima Murrieta](https://www.linkedin.com/in/david-lima-murrieta-6b2977220/)
+
+---
+
+⭐ **¡Gracias por visitar mi perfil!**  
+¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
+## 📊 Estadísticas de GitHub
+![DavidL0403 GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidL0403&show_icons=true&theme=dark)
+
