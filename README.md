@@ -16,7 +16,6 @@ Soy un **desarrollador back-end** con experiencia en PHP, Laravel, SQL Server, y
 ---
 
 ## 📌 Proyectos Destacados
-🔹 [**ShieldShirts**](https://github.com/DavidL0403/ShieldShirts) - Proyecto de diseño de camisetas en HTML.  
 🔹 [**Hackathon Banco Guayaquil**](https://github.com/andersonSinaluisa/hackathonbg2025) - Evaluación crediticia con Django y Angular.  
 
 ---
